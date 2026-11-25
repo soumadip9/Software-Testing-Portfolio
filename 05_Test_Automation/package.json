@@ -1,0 +1,12 @@
+{
+  "name": "realestate-playwright-tests",
+  "version": "1.0.0",
+  "description": "Playwright automated test suite for Real Estate Property Management and Rental System",
+  "scripts": {
+    "test": "playwright test",
+    "report": "playwright show-report ../06_Test_Reports/playwright-html-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.0"
+  }
+}

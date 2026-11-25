@@ -1,0 +1,4 @@
+node_modules/
+dist/
+.env
+05_Test_Automation/test-results/
